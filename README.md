@@ -1,6 +1,9 @@
 # Reading Seminars for Optimisation and Inference
 
-These reading seminars are held at Imperial College on a weekly basis, and are meant to present papers related to Optimisation and Inference.
+These reading seminars are held at Imperial College on a weekly basis. 
+We plan to study recent papers on the following topics: global optimization, variational inference, non-asymptotic analysis of stochastic gradient descent-type algorithms, natural gradient descent, Markov chain simulation. 
+
+**All are welcome**, particularly PhD students and research associates. Please contact us for further details.
 
 ### Practical details
 **How to stay tunned?** Please subscribe to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/opt-inf-reading-seminar). \
