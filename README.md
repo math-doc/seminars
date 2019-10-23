@@ -12,7 +12,7 @@ These reading seminars are held at Imperial College on a weekly basis, and are m
 - Grigorios A. Pavliotis: [g.pavliotis@imperial.ac.uk](mailto:g.pavliotis@imperial.ac.uk)
 - Nikolas Kantas: [n.kantas@imperial.ac.uk](mailto:n.kantas@imperial.ac.uk)
 
-If you have any question, please contact Alexis Laignelet: [acl18@imperial.ac.uk](mailto:acl18@imperial.ac.uk).
+If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.uk](mailto:acl18@imperial.ac.uk).
 
 `Contents:`\
 *Optimisation, Convexity, Gradient methods, Proximal algorithms, Stochastic methods, Primal-Dual problems, Markov Chain, Monte Carlo, Error estimates, Diffusion processes, Lipschitz functions, Euler scheme, Variational Inference.*
