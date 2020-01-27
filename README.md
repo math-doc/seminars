@@ -33,3 +33,4 @@ Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;
 26/11/19 | Daniel Lengyel | ['Interactive Diffusions for Global Optimization'](../../raw/master/papers/Sun-Garcia2014_Article_InteractiveDiffusionsForGlobal.pdf), Yue Sun and Alfredo Garcia
 03/12/19 | Martin Chak | ['Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm'](../../raw/master/papers/1608.04471.pdf), Qiang Liu, Dilin Wang
 10/12/19 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
+31/01/20 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
