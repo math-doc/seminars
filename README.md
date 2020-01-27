@@ -7,8 +7,8 @@ We plan to study recent papers on the following topics: global optimization, var
 
 ### Practical details
 **How to stay tunned?** Please subscribe to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/opt-inf-reading-seminar). \
-**Where?** Room 140 (Huxley building), Imperial College London. \
-**When?** 2-3pm every Tuesday during term times. See the program below.
+**Where?** Room 658 (Huxley building), Imperial College London. \
+**When?** 4-5pm every Friday during term times. See the program below.
 
 ### Team
 - Panos Parpas: [panos.parpas@imperial.ac.uk](mailto:panos.parpas@imperial.ac.uk)
