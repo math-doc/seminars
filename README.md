@@ -23,14 +23,14 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 ### Program
 Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Paper 
 --- | --- | ---
-08/10/19 | Grigorios A. Pavliotis | ['Curvature, Concentration and Error Estimates for Markov Chain Monte Carlo'](../../raw/master/papers/0904.1312.pdf), Aléric Joulin and Yann Ollivier
-15/10/19 | Grigorios A. Pavliotis | ['Curvature, Concentration and Error Estimates for Markov Chain Monte Carlo'](../../raw/master/papers/0904.1312.pdf), Aléric Joulin and Yann Ollivier
-22/10/19 | Panos Parpas | ['On the Convergence of Gradient-like Flows with Noisy Gradient Input'](../../raw/master/papers/1611.06730.pdf), Panayotis Mertikopoulos and Mathias Staudigl
-29/10/19 | Panos Parpas | ['On the Convergence of Gradient-like Flows with Noisy Gradient Input'](../../raw/master/papers/1611.06730.pdf), Panayotis Mertikopoulos and Mathias Staudigl
-05/11/19 | Nikolas Kantas | ['Variational Inference: A Review for Statisticians'](../../raw/master/papers/1601.00670.pdf), David M. Blei, Alp Kucukelbir and Jon D. McAuliffe
-12/11/19 | Anastasia Borovykh | ['Deep Relaxation: Partial Differential Equations for Optimizing Deep Neural Networks'](../../raw/master/papers/1704.04932.pdf), Pratik Chaudhari, Adam Oberman, Stanley Osher, Stefano Soatto and Guillaume Carlier
-19/11/19 | Alexis Laignelet | ['The effective Energy Transformation Scheme as a Special Continuation Approach to Global Optimization with Application to Molecular Conformation'](../../raw/master/papers/s1052623493254698.pdf), Zhijun Wu
-26/11/19 | Daniel Lengyel | ['Interactive Diffusions for Global Optimization'](../../raw/master/papers/Sun-Garcia2014_Article_InteractiveDiffusionsForGlobal.pdf), Yue Sun and Alfredo Garcia
-03/12/19 | Martin Chak | ['Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm'](../../raw/master/papers/1608.04471.pdf), Qiang Liu, Dilin Wang
-10/12/19 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
 31/01/20 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
+10/12/19 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
+03/12/19 | Martin Chak | ['Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm'](../../raw/master/papers/1608.04471.pdf), Qiang Liu, Dilin Wang
+26/11/19 | Daniel Lengyel | ['Interactive Diffusions for Global Optimization'](../../raw/master/papers/Sun-Garcia2014_Article_InteractiveDiffusionsForGlobal.pdf), Yue Sun and Alfredo Garcia
+19/11/19 | Alexis Laignelet | ['The effective Energy Transformation Scheme as a Special Continuation Approach to Global Optimization with Application to Molecular Conformation'](../../raw/master/papers/s1052623493254698.pdf), Zhijun Wu
+12/11/19 | Anastasia Borovykh | ['Deep Relaxation: Partial Differential Equations for Optimizing Deep Neural Networks'](../../raw/master/papers/1704.04932.pdf), Pratik Chaudhari, Adam Oberman, Stanley Osher, Stefano Soatto and Guillaume Carlier
+05/11/19 | Nikolas Kantas | ['Variational Inference: A Review for Statisticians'](../../raw/master/papers/1601.00670.pdf), David M. Blei, Alp Kucukelbir and Jon D. McAuliffe
+29/10/19 | Panos Parpas | ['On the Convergence of Gradient-like Flows with Noisy Gradient Input'](../../raw/master/papers/1611.06730.pdf), Panayotis Mertikopoulos and Mathias Staudigl
+22/10/19 | Panos Parpas | ['On the Convergence of Gradient-like Flows with Noisy Gradient Input'](../../raw/master/papers/1611.06730.pdf), Panayotis Mertikopoulos and Mathias Staudigl
+15/10/19 | Grigorios A. Pavliotis | ['Curvature, Concentration and Error Estimates for Markov Chain Monte Carlo'](../../raw/master/papers/0904.1312.pdf), Aléric Joulin and Yann Ollivier
+08/10/19 | Grigorios A. Pavliotis | ['Curvature, Concentration and Error Estimates for Markov Chain Monte Carlo'](../../raw/master/papers/0904.1312.pdf), Aléric Joulin and Yann Ollivier
