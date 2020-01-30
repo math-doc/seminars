@@ -23,6 +23,12 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 ### Program
 Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Paper 
 --- | --- | ---
+13/03/20 | |
+06/03/20 | |
+28/02/20 | |
+21/02/20 | | 
+14/02/20 |Konstantin Mishchenko | 
+7/02/20 | Anastasia Borovykh | ['Continuous-time stochastic Mirror Descent on a network: Variance reduction, consensus, convergence'](https://ieeexplore.ieee.org/abstract/document/6426639/), Maxim Raginsky,Jake Bouvrie
 31/01/20 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
 10/12/19 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
 03/12/19 | Martin Chak | ['Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm'](../../raw/master/papers/1608.04471.pdf), Qiang Liu, Dilin Wang
