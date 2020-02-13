@@ -25,11 +25,11 @@ Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;
 --- | --- | ---
 13/03/20 | |
 06/03/20 | |
-28/02/20 | |
-21/02/20 | | 
-21/02/20 | Anastasia Borovykh | ['Continuous-time stochastic Mirror Descent on a network: Variance reduction, consensus, convergence'](https://ieeexplore.ieee.org/abstract/document/6426639/), Maxim Raginsky,Jake Bouvrie
-14/02/20 |Konstantin Mishchenko | 
-07/02/20|Giacomo Garegnani|A pre-processing technique for asymptotically correct drift estimation in multiscale diffusion processes
+28/02/20 | Boumediene Hamzi | 'Machine Learning and Dynamical Systems meet in Reproducing Kernel Hilbert Spaces'
+21/02/20 | Louis | ['Stochastic Gradient Descent in Continuous Time'] (../../raw/master/papers/1611.05545.pdf), Justin Sirignano, Konstantinos Spiliopoulos
+21/02/20 | Anastasia Borovykh | ['Continuous-time stochastic Mirror Descent on a network: Variance reduction, consensus, convergence'](../../raw/master/papers/raginsky_bouvrie_CDC12.pdf), Maxim Raginsky,Jake Bouvrie
+14/02/20 | Konstantin Mishchenko | ['Sinkhorn Algorithm as a Special Case of Stochastic Mirror Descent'](../../raw/master/papers/1909.06918.pdf), Konstantin Mishchenko
+07/02/20 | Giacomo Garegnani | A pre-processing technique for asymptotically correct drift estimation in multiscale diffusion processes
 31/01/20 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
 10/12/19 | Nikolas Kantas | ['Unbiased Markov chain Monte Carlo with couplings'](../../raw/master/papers/1708.03625.pdf), Pierre E. Jacob, John O'Leary, Yves F. Atchadé
 03/12/19 | Martin Chak | ['Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm'](../../raw/master/papers/1608.04471.pdf), Qiang Liu, Dilin Wang
