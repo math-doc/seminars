@@ -24,7 +24,7 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Paper 
 --- | --- | ---
 20/03/20 | Boumediene Hamzi | 'Machine Learning and Dynamical Systems meet in Reproducing Kernel Hilbert Spaces'
-13/03/20 | Tony |
+13/03/20 | Tony | 'Free energy based adaptive biasing technique for sampling'
 06/03/20 | Louis Sharrock | ['Stochastic Gradient Descent in Continuous Time'](../../raw/master/papers/1611.05545.pdf), Justin Sirignano, Konstantinos Spiliopoulos
 28/02/20 | Anastasia Borovykh | ['Continuous-time stochastic Mirror Descent on a network: Variance reduction, consensus, convergence'](../../raw/master/papers/raginsky_bouvrie_CDC12.pdf), Maxim Raginsky,Jake Bouvrie
 14/02/20 | Konstantin Mishchenko | ['Sinkhorn Algorithm as a Special Case of Stochastic Mirror Descent'](../../raw/master/papers/1909.06918.pdf), Konstantin Mishchenko
