@@ -23,7 +23,8 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 ### Program
 Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Paper 
 --- | --- | ---
-24/04/20 | Martin Chak | ['Importance sampling for metastable dynamical systems in molecular dynamics'](../../raw/master/papers/PhD_Jannes_Quer_final.pdf), Jannes Quer
+01/05/20 | Grigorios A. Pavliotis | ['The Mathematics of Learning: Dealing with Data'](../../raw/master/papers/poggiosmale.pdf), Tomaso Poggio, Steve Smale
+24/04/20 | Martin Chak | ['Underdamped Langevin MCMC: A non-asymptotic analysis'](../../raw/master/papers/cheng18a.pdf), Xiang Cheng, Niladri S. Chatterji, Peter L. Bartlett, Michael I. Jordan
 17/04/20 | Alexis Laignelet | ['Using the Equivalent Kernel to Understand Gaussian Process Regression'](../../raw/master/papers/2676-using-the-equivalent-kernel-to-understand-gaussian-process-regression.pdf), Peter Sollich, Christopher K. I. Williams
 13/03/20 | Tony Lelièvre | 'Free energy based adaptive biasing technique for sampling'
 06/03/20 | Louis Sharrock | ['Stochastic Gradient Descent in Continuous Time'](../../raw/master/papers/1611.05545.pdf), Justin Sirignano, Konstantinos Spiliopoulos
