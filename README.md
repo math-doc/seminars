@@ -1,5 +1,12 @@
 # Reading Seminars for Optimisation and Inference
 
+
+##  Covid19 update
+During the lockdown, the reading seminar is still active, and sessions are held every **Friday** at **2:30pm**. It is now organised on Zoom:
+https://zoom.us/j/91191584515?pwd=QUFHZms2RUdadXpCdzIxVnRWOGo1QT09 \
+Meeting ID: 911 9158 4515 \
+Password: 726615
+
 These reading seminars are held at Imperial College on a weekly basis. 
 We plan to study recent papers on the following topics: global optimization, variational inference, non-asymptotic analysis of stochastic gradient descent-type algorithms, natural gradient descent, Markov chain simulation. 
 
