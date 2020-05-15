@@ -25,8 +25,9 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 *Optimisation, Convexity, Gradient methods, Proximal algorithms, Stochastic methods, Primal-Dual problems, Markov Chain, Monte Carlo, Error estimates, Diffusion processes, Lipschitz functions, Euler scheme, Variational Inference.*
 
 ### Program
-Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Paper 
+Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Presentation 
 --- | --- | ---
+21/05/20 | Panos Parpas | Natural Gradient Works Efficiently in Learning, Shun-ichi Amari
 15/05/20 | Grigorios A. Pavliotis | ['On Learning Rates and Schrodinger Operators'](../../raw/master/papers/2004.06977.pdf), Bin Shi, Weijie J. Su, Michael I. Jordan
 01/05/20 | Boumediene Hamzi | Machine Learning and Dynamical Systems meet in Reproducing Kernel Hilbert Spaces
 24/04/20 | Martin Chak | ['Underdamped Langevin MCMC: A non-asymptotic analysis'](../../raw/master/papers/cheng18a.pdf), Xiang Cheng, Niladri S. Chatterji, Peter L. Bartlett, Michael I. Jordan
