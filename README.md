@@ -27,6 +27,7 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 ### Program
 Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Presentation 
 --- | --- | ---
+28/05/20 | Anastasia Borovykh | undef.
 21/05/20 | Panos Parpas | ['Natural Gradient Works Efficiently in Learning'](../../raw/master/papers/amari1998.pdf), Shun-ichi Amari
 15/05/20 | Grigorios A. Pavliotis | ['On Learning Rates and Schrodinger Operators'](../../raw/master/papers/2004.06977.pdf), Bin Shi, Weijie J. Su, Michael I. Jordan
 01/05/20 | Boumediene Hamzi | Machine Learning and Dynamical Systems meet in Reproducing Kernel Hilbert Spaces
