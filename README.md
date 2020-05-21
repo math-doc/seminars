@@ -2,7 +2,7 @@
 
 
 ##  Covid19 update
-During the lockdown, the reading seminar is still active, and sessions are held every **Thursday** at **2:30pm** on Zoom.
+During the lockdown, the reading seminar is still active, and the next session will be on **Thursday (28/05)** at **3:00pm** on Zoom.
 
 These reading seminars are held at Imperial College on a weekly basis. 
 We plan to study recent papers on the following topics: global optimization, variational inference, non-asymptotic analysis of stochastic gradient descent-type algorithms, natural gradient descent, Markov chain simulation. 
@@ -27,7 +27,7 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 ### Program
 Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Presentation 
 --- | --- | ---
-28/05/20 | Anastasia Borovykh | undef.
+28/05/20 | Anastasia Borovykh | ['Network Synchronization with Convexity'](../../raw/master/papers/1412.7011.pdf), Guodong Shi, Alexandre Proutiere, and Karl Henrik Johansson
 21/05/20 | Panos Parpas | ['Natural Gradient Works Efficiently in Learning'](../../raw/master/papers/amari1998.pdf), Shun-ichi Amari
 15/05/20 | Grigorios A. Pavliotis | ['On Learning Rates and Schrodinger Operators'](../../raw/master/papers/2004.06977.pdf), Bin Shi, Weijie J. Su, Michael I. Jordan
 01/05/20 | Boumediene Hamzi | Machine Learning and Dynamical Systems meet in Reproducing Kernel Hilbert Spaces
