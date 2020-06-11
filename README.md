@@ -2,7 +2,7 @@
 
 
 ##  Covid19 update
-During the lockdown, the reading seminar is still active, and the next session will be on **Thursday (28/05)** at **3:00pm** on Zoom.
+During the lockdown, the reading seminar is still active, and the next session will be on **Thursday (11/06)** at **2:30pm** on Zoom.
 
 These reading seminars are held at Imperial College on a weekly basis. 
 We plan to study recent papers on the following topics: global optimization, variational inference, non-asymptotic analysis of stochastic gradient descent-type algorithms, natural gradient descent, Markov chain simulation. 
