@@ -27,7 +27,7 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 ### Program
 Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Presentation 
 --- | --- | ---
-25/06/20 | Dante Kalise | To be defined
+25/06/20 | Dante Kalise | Proximal methods and applications in statistics and beyond.
 11/06/20 | Daniel Lengyel | ['FLAT MINIMA'](../../raw/master/papers/3304.pdf), Sepp Hochreiter, Jurgen Schmidhuber <br> ['On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima'](../../raw/master/papers/1609.04836.pdf), Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang <br> ['Sharp Minima Can Generalize For Deep Nets'](../../raw/master/papers/1703.04933.pdf), Laurent Dinh, Razvan Pascanu, Samy Bengio, Yoshua Bengio <br>  ['Empirical Analysis of the Hessian of Over-Parametrized Neural Networks'](../../raw/master/papers/1706.04454.pdf), Levent Sagun, Utku Evci, V. Ugur Guney, Yann Dauphin, Leon Bottou <br> ['Topology and Geometry of Half-Rectified Network Optimization'](../../raw/master/papers/1611.01540.pdf), C. Daniel Freeman, Joan Bruna
 28/05/20 | Anastasia Borovykh | ['Network Synchronization with Convexity'](../../raw/master/papers/1412.7011.pdf), Guodong Shi, Alexandre Proutiere, and Karl Henrik Johansson
 21/05/20 | Panos Parpas | ['Natural Gradient Works Efficiently in Learning'](../../raw/master/papers/amari1998.pdf), Shun-ichi Amari
