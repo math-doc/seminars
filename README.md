@@ -2,7 +2,7 @@
 
 
 ##  Covid19 update
-During the lockdown, the reading seminar is still active, and the next session will be on **Thursday (11/06)** at **2:30pm** on Zoom.
+During the lockdown, the reading seminar is still active, and the next session will be on **Thursday (09/07)** at **2:30pm** on Zoom.
 
 These reading seminars are held at Imperial College on a weekly basis. 
 We plan to study recent papers on the following topics: global optimization, variational inference, non-asymptotic analysis of stochastic gradient descent-type algorithms, natural gradient descent, Markov chain simulation. 
@@ -27,6 +27,7 @@ If you have any questions, please contact Alexis Laignelet: [acl18@imperial.ac.u
 ### Program
 Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Presentation 
 --- | --- | ---
+09/07/20 | Nikolas Nüsken | ['Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks: perspectives from the theory of controlled diffusions and measures on path space'](../../raw/master/papers/2005.05409.pdf), Nikolas Nüsken, Lorenz Richter
 25/06/20 | Dante Kalise | Proximal methods and applications in statistics and beyond: <br> ['Proximal Algorithms in Statistics and Machine Learning'](../../raw/master/papers/1502.03175.pdf), Nicholas G. Polson, James G. Scott, Brandon T. Willard <br> ['Proximal Algorithms'](../../raw/master/papers/prox_algs.pdf), Neal Parikh <br> ['Proximal methods for stationary Mean Field Games with local couplings'](../../raw/master/papers/1608.07701.pdf), L.M. Briceño-Arias, D. Kalise, F.J. Silva
 11/06/20 | Daniel Lengyel | ['FLAT MINIMA'](../../raw/master/papers/3304.pdf), Sepp Hochreiter, Jurgen Schmidhuber <br> ['On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima'](../../raw/master/papers/1609.04836.pdf), Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang <br> ['Sharp Minima Can Generalize For Deep Nets'](../../raw/master/papers/1703.04933.pdf), Laurent Dinh, Razvan Pascanu, Samy Bengio, Yoshua Bengio <br>  ['Empirical Analysis of the Hessian of Over-Parametrized Neural Networks'](../../raw/master/papers/1706.04454.pdf), Levent Sagun, Utku Evci, V. Ugur Guney, Yann Dauphin, Leon Bottou <br> ['Topology and Geometry of Half-Rectified Network Optimization'](../../raw/master/papers/1611.01540.pdf), C. Daniel Freeman, Joan Bruna
 28/05/20 | Anastasia Borovykh | ['Network Synchronization with Convexity'](../../raw/master/papers/1412.7011.pdf), Guodong Shi, Alexandre Proutiere, and Karl Henrik Johansson
